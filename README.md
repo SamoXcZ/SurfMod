@@ -18,10 +18,9 @@ Since this app is designed for **TrollStore**, ensure you have TrollStore instal
 3. **Reload the Game**: Once the mod is enabled, close and relaunch *Subway Surfers*. You will immediately see the updated currency values popping in.
 
 ## Safety
-This mod is built with anti-ban measures, ensuring your account remains safe while using it. The mod operates in a non-invasive manner, simply modifying currency values without affecting the core game mechanics or servers.
+This mod is totally safe and you don't have to worry about your personal account or any account you gonna use it in!
 
-## Disclaimer
-- This mod is designed for personal use only. Modifying games can violate the terms of service of the game, so use it at your own discretion.
-- **SamoDev** takes no responsibility for any consequences that may arise from using this mod.
+## Credits
+- **SamoXcZ**
 
 Enjoy your boosted *Subway Surfers* experience!
